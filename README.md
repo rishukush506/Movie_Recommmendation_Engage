@@ -1,6 +1,6 @@
 # Movie_Recommmendation_Engage
 ## About App
-This is a movie recommendation System which recommend you movies on three categories:
+This is a movie recommendation system which recommend you movies on three categories:
 - [x] Trending Movies
 - [x] Content-Based Recommender
 - [x] User-Based Recommender
