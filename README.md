@@ -34,3 +34,47 @@ This is a movie recommendation system which recommend you movies on three catego
 
 <br>  As you can see for same movie title "The Fighter" It is showing different results because of different user ids.
 
+<br>
+
+## How I Completed this project.
+<br>
+Microsoft and the Acehacker team kept various sessions for us to learn more about the work culture at Microsoft. We also learned about new technologies that have been developed by Microsoft .<br><br>
+
+In the <strong>first week</strong>, I was very much confused in choosing projects, switching from one project to another.
+
+In the <strong>second week</strong>, I finalised <strong>algorithms project</strong> and decided on building a movie recommmendation system and start working on its design .
+
+In the <strong>third week</strong>, I worked on jupyter notebook and learned various concepts of machine learning. I played with data a lot and try to apply various concepts like stemming and word to vector. I also try to apply different algorithms for efficient working of the system. <br>
+
+In the <strong>last week</strong> I finalised data and made ui for my web app using streamlit (which saves a lot of my time ). <br>
+
+I completely enjoyed the process.
+<br>
+
+## Prerequisites
+
+You must have the following installed:
+
+- [Python 3.10](https://www.python.org/downloads/)
+
+Running the Web App on your Local System
+--------------------------------
+
+To run the web app in your local device, run the following commands in your terminal:-
+
+Clone the GitHub repository into your local device by running the following command:
+```bash
+git clone https://github.com/rishukush506/Movie_Recommmendation_Engage
+
+cd Movie_Recommmendation_Engage
+```
+
+In the project directory run:
+
+```bash 
+streamlit run app.py
+```
+
+And there you go !!!
+
+
